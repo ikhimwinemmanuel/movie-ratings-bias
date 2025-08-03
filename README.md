@@ -51,9 +51,9 @@ Original datasets are from [FiveThirtyEight’s open-data repo](https://github.c
 
 * **Systematic Inflation** – Fandango’s displayed *Stars* average **0.37 points higher** than their underlying numeric *Rating*.  
 
-* **Outlier Amplification** – Low-rated films on RT (< 2 / 5) still showed ≥ 3 stars on 
+* **Outlier Amplification** – Low-rated films on RT (< 2 / 5) still showed ≥ 3 stars on fandango site
 
-* **Business Impact** – Inflation is most pronounced in the >3.5 star window—exactly where purchase decisions are most sensitive.
+* **Business Impact** – Inflation is most pronounced in the >3.5 star window; exactly where purchase decisions are most sensitive.
 
 ---
 
